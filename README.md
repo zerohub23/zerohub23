@@ -2,9 +2,9 @@
 
 
 
-![zerohub23's Stats](https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000)
+    ![zerohub23's Stats](https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23)](https://github.com/zerohub23/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23)](https://github.com/zerohub23/github-readme-stats)
+
 
 <!--
 **zerohub23/zerohub23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
