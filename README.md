@@ -5,6 +5,9 @@
   ![zerohub23's Stats](https://github-readme-stats.vercel.app/api?username=zerohub23&show_icons=true&theme=highcontrast&icon_color=#ff0000)  
     
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohub23)
+   
+   
+   👩‍ I'm currently pursuing B.tech from IIIT,Ranchi.
 
 
 <!--
